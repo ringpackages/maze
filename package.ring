@@ -22,7 +22,7 @@ aPackageInfo = [
 	],
 	:files = 	[
 		"main.ring",
-		"applications/README.md"
+		"README.md"
 	],
 	:ringfolderfiles = 	[
 		"applications/maze/designer.ring",
