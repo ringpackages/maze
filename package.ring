@@ -5,11 +5,11 @@ aPackageInfo = [
 	:developer = "Mahmoud Fayed",
 	:email = "msfclipper@yahoo.com",
 	:license = "MIT License",
-	:version = "1.0.3",
+	:version = "1.0.4",
 	:ringversion = "1.18",
 	:versions = 	[
 		[
-			:version = "1.0.3",
+			:version = "1.0.4",
 			:branch = "master"
 		]
 	],
@@ -33,7 +33,8 @@ aPackageInfo = [
 		"applications/maze/images/wall.jpg",
 		"applications/maze/level.ring",
 		"applications/maze/maze.png",
-		"applications/maze/maze.ring"
+		"applications/maze/maze.ring",
+		"applications/maze/README.md"
 	],
 	:windowsfiles = 	[
 
